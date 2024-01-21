@@ -160,3 +160,4 @@ const {...genres} = book.genres;
 
 genres
 
+//Array Sprading
