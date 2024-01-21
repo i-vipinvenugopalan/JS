@@ -156,3 +156,7 @@ const data = [
 const { title, author} = book;
 console.log(author,title)
   
+const {...genres} = book.genres;
+
+genres
+
